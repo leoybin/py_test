@@ -192,6 +192,7 @@ if (resultType == 1)
                     "FSTOCKLOCID__FF100006": {
                         "FNumber": ""
                     },
+                    "aa":"aaa",
                     "FSTOCKLOCID__FF100007": {
                         "FNumber": ""
                     },
